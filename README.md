@@ -39,3 +39,6 @@ GET /cities
 POST /cities
 PATCH /cities/ (user id)
 DELETE /cities/ (city id)
+
+Todos esses endpoints precisam de um tokem
+
