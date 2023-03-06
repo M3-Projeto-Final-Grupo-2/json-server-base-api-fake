@@ -4,8 +4,63 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste@mail.com",
+      "password": "$2a$10$.LjsMQLuxv4q717LnniApeWNHwmKXgY3IGWcMQBZNzBB07lxcsz/.",
+      "name": "Teste",
+      "id": 2
+    }
+  ],
+  "cities": [
+    {
+      "userId": "2",
+      "name": "Salvador",
+      "state": "Bahia",
+      "description": "Primeira capital do Brasil",
+      "image": "https://media.istockphoto.com/id/492696632/pt/foto/vista-da-ba%C3%ADa-de-todos-os-santos-em-salvador-bahia-brasil.jpg?s=612x612&w=0&k=20&c=nfe6kbifDeqnFZQBRisGz71qY3LVpgylH2a3UXS7dnc=",
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "name": "São Paulo",
+      "state": "São Paulo",
+      "description": "Cidade mais populosdo Brasil",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOWlGZecEzOUdThqaTa5FwGdS8kpx4vyfUVg&usqp=CAU",
+      "id": 2
+    },
+    {
+      "userId": "2",
+      "name": "Florianópolis",
+      "state": "Santa Catarina",
+      "description": "Cidade fica em uma ilha",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8CmS6GHwtLRBYmxItVjODwSDS8gzoeBd9vg&usqp=CAU",
+      "id": 3
+    },
+    {
+      "userId": "1",
+      "name": "Rio de janeiro",
+      "state": "Rio de janeiro",
+      "description": "Cidade maravilhosa",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQylVcWPQW88_Jr8u9OwzDWO7hSqN6pqpNnKQ&usqp=CAU",
+      "id": 4
+    },
+    {
+      "userId": "1",
+      "name": "Proto Seguro",
+      "state": "Bahia",
+      "description": "Cidade no interior da Bahia com belas prais",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxV-k-qUFn930H8KurYcr_SSeXuPrA2hLQcA&usqp=CAU",
+      "id": 5
+    },
+    {
+      "userId": "2",
+      "name": "Guarulhos",
+      "state": "São Paulo",
+      "description": "Cidade no interior de São Paulo, com o maior aeroporto da America Latina",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJi7gr8vBxWf_TYEZirVkY_tzzfgWSSAQKlw&usqp=CAU",
+      "id": 6
     }
   ]
 }
