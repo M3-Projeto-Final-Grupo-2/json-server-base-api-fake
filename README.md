@@ -22,3 +22,20 @@ POST /login <br/>
 POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+### Cities
+From search city
+GET /cities?state_like=(value from input)
+
+One cities from user
+GET /cities/(city id)?_expand=user
+
+All cities from user
+GET /cities?userid=(user id)
+
+All cities
+GET /cities
+
+POST /cities
+PATCH /cities/ (user id)
+DELETE /cities/ (city id)
