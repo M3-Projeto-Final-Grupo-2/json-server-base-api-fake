@@ -36,6 +36,9 @@ GET /cities?userid=(user id)
 All cities:
 GET /cities
 
+All cities and user
+GEt /cities/?_embed=users
+
 POST /cities
 PATCH /cities/ (user id)
 DELETE /cities/ (city id)
