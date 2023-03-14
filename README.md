@@ -37,7 +37,7 @@ All cities:
 GET /cities
 
 All cities and user
-GEt /cities/?_embed=users
+GET /cities/?_expand=user
 
 POST /cities
 PATCH /cities/ (user id)
